@@ -1,0 +1,11 @@
+{
+  "request-accepted": ["01-request-accepted.wav"],
+  "answer-ready": ["02-answer-ready.wav"],
+  "question": ["03-question.wav"],
+  "permission": ["04-permission.wav"],
+  "input-needed": ["05-input-needed.wav"],
+  "error": ["06-error.wav"],
+  "interrupted": ["07-interrupted.wav"],
+  "limit-reached": ["08-limit-reached.wav"],
+  "result-unconfirmed": ["09-result-unconfirmed.wav"]
+}
